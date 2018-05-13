@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  background-color: #CCC;
+  padding: 5px 5px 0;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #3292ff;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+  border-bottom: #1b304c solid 10px;
+}
+
+.nav-link.active {
+  background-color: #1b304c !important;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.feed-list {
+  height: 600px;
+  width: 60%;
+  border-radius: 5px;
+  background-color: #fff;
+  margin: 10px 0;
+  text-align: left;
+  padding: 0 30px;
+}
+
+.feed-right {
+  height: 600px;
+  width: 30%;
+  border-radius: 5px;
+  background-color: #fff;
+  margin: 10px;
+  text-align: left;
+  padding: 0 30px;
+}
+
+.quote-box {
+  text-align: left;
+  border-left: solid 5px #1b304c;
+  margin-left: 5px;
+  padding: 0 5px;
+}
+
+.quoter {
+  font-size: .8em;
+  font-style: italic;
+}
