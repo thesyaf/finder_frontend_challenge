@@ -4,11 +4,6 @@
   padding: 5px 5px 0;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
 .App-header {
   background-color: #3292ff;
   height: 150px;
@@ -16,6 +11,7 @@
   color: white;
   font-weight: bold;
   border-bottom: #1b304c solid 10px;
+  margin-bottom: 5px;
 }
 
 .nav {
@@ -27,7 +23,9 @@
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 3em;
+  font-weight: bold;
+  margin-top: 30px;
 }
 
 .App-intro {
@@ -61,6 +59,7 @@
 
 .main-image {
   width: 100%;
+  padding-bottom: 10px;
 }
 
 .quote-box {

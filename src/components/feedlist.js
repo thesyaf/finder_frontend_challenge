@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 export default function Feedlist() {
     var data = require('../data/data.json');
